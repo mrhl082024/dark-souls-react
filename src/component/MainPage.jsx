@@ -1,3 +1,4 @@
+import NavBar from "./NavBar";
 const MainPage = () => {
   return (
     <div id="main-page">

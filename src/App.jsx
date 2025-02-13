@@ -4,7 +4,7 @@ import MainPage from "./component/MainPage.jsx";
 function App() {
   return (
     <>
-      <MainPage.jsx />
+      <MainPage />
     </>
   );
 }
