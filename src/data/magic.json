@@ -2,16 +2,52 @@
   {
     "Magic": {
       "Sorcery": {
-        "Soul Arrow": {}
+        "Soul Arrow": {},
+        "Great Soul Arrow": {},
+        "Heavy Soul Arrow": {},
+        "Great Heavy Soul Arrow": {},
+        "Farron Dart": {},
+        "Great Farron Dart": {},
+        "Farron Hail": {},
+        "Homing Soulmass": {},
+        "Homing Crystal Soulmass": {},
+        "Crystal Hail": {},
+        "Soul Spear": {},
+        "Crystal Soul Spear": {},
+        "White Dragon Breath": {},
+        "Soul Stream": {},
+        "Soul Greatsword": {},
+        "Farron Flashsword": {},
+        "Magic Weapon": {},
+        "Great Magic Weapon": {},
+        "Crystal Magic Weapon": {},
+        "Magic Shield": {},
+        "Great Magic Shield": {},
+        "Spook": {},
+        "Aural Decoy": {},
+        "Pestilent Mist": {},
+        "Cast Light": {},
+        "Repair": {},
+        "Hidden Weapon": {},
+        "Chameleon": {},
+        "Twisted Wall of Light": {},
+        "Deep Soul": {},
+        "Great Deep Soul": {},
+        "Affinity": {},
+        "Dark Edge": {},
+        "Frozen Weapon": {},
+        "Snap Freeze": {},
+        "Great Soul Dregs": {},
+        "Old Moonlight": {}
       },
       "Miracles": {
         "Heal Aid": {
-          "FP":"",
-          "Slots":"",
-          "Intelligence":"",
-          "Faith":""
+          "FP": "",
+          "Slots": "",
+          "Intelligence": "",
+          "Faith": ""
         },
-        "Lightning Spear":{}
+        "Lightning Spear": {}
       },
       "Pyromancy": {
         "Fireball": {}
