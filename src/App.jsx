@@ -1,10 +1,11 @@
 import "./styles/App.css";
-import MainPage from "./component/MainPage.jsx";
+import MainPage from "./component/IndexApp.jsx";
+import magicData from "./data/magic.json"
 
 function App() {
   return (
     <>
-      <MainPage />
+      <MainPage magicData={magicData}/>
     </>
   );
 }

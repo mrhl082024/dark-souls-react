@@ -1,9 +1,9 @@
 import NavBar from "./NavBar";
-const MainPage = () => {
+const IndexApp = () => {
   return (
     <div id="main-page">
       <NavBar />
     </div>
   );
 };
-export default MainPage;
+export default IndexApp;
