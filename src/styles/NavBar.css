@@ -7,6 +7,8 @@
 }
 #navbar-logo{
     display: flex;
+    justify-content: center;
+    background-color: black;
 }
 #navbar {
   background: black;
