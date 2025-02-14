@@ -5,7 +5,13 @@
         "Soul Arrow": {}
       },
       "Miracles": {
-        "Heal Aid": {}
+        "Heal Aid": {
+          "FP":"",
+          "Slots":"",
+          "Intelligence":"",
+          "Faith":""
+        },
+        "Lightning Spear":{}
       },
       "Pyromancy": {
         "Fireball": {}
