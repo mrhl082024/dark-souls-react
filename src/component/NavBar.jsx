@@ -1,8 +1,10 @@
 import "../styles/NavBar.css";
+import dsLogo from  "../assets/ds3_logo.jpg"
 
 const NavBar = () => {
   return (
     <div id="navbar-card">
+      <img id="navbar-logo" src={dsLogo} alt="Dark Souls Title Logo" />
       <nav id="navbar">
         <div className="dropdown">
           <button className="dropbtn">World</button>
