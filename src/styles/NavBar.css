@@ -5,10 +5,10 @@
   border: none;
   background: black;
 }
-#navbar-logo{
-    display: flex;
-    justify-content: center;
-    background-color: black;
+#navbar-logo {
+  display: flex;
+  justify-content: center;
+  background-color: black;
 }
 #navbar {
   background: black;
@@ -19,7 +19,7 @@
 
 /* Dropdown Button */
 .dropbtn {
-  background: linear-gradient(rgba(255, 60, 0), rgba(0, 0, 0));
+  background: rgb(150, 50, 3);
   color: white;
   border: none;
   width: 140px;
@@ -68,4 +68,10 @@ a {
   text-align: center;
   background-color: black;
   text-decoration: none;
+}
+#filler {
+  height: 30px;
+  width: 100%;
+  background-color: brown;
+  margin-top: 8px;
 }

@@ -4,8 +4,8 @@ import dsLogo from "../assets/ds3_logo.jpg";
 const NavBar = () => {
   return (
     <div id="navbar-card">
-      <div id="navbar-logo" >
-        <img  src={dsLogo} alt="Dark Souls Title Logo" />
+      <div id="navbar-logo">
+        <img src={dsLogo} alt="Dark Souls Title Logo" />
       </div>
       <nav id="navbar">
         <div className="dropdown">
@@ -49,6 +49,7 @@ const NavBar = () => {
           </div>
         </div>
       </nav>
+      <div id="filler"></div>
     </div>
   );
 };
