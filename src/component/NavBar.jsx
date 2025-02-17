@@ -49,7 +49,6 @@ const NavBar = () => {
           </div>
         </div>
       </nav>
-      <div id="filler"></div>
     </div>
   );
 };
