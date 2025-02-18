@@ -42,7 +42,7 @@ const NavBar = () => {
         <div className="dropdown">
           <button className="dropbtn">Magic</button>
           <div className="dropdown-content">
-            <Link to="/SorceryList">Sorcery</Link>
+            <Link to="/SorceryList" >Sorcery</Link>
           </div>
         </div>
 

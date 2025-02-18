@@ -1,4 +1,4 @@
-[
+const magicData = [
   {
     "Magic": {
       "Sorcery": {
@@ -360,3 +360,4 @@
     }
   }
 ]
+export default magicData

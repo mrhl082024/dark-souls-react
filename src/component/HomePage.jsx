@@ -1,5 +1,4 @@
 import "../styles/Homepage.css";
-import homepageBackground from "../assets/Dark-Souls-III-PS4-Wallpapers-21.jpg";
 
 const Homepage = () => {
   //JS code goes here--
