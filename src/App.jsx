@@ -1,13 +1,23 @@
 import "./styles/App.css";
-import IndexApp from "./component/IndexApp.jsx";
-import magicData from "./data/magic.json"
+import ReactDOM from "react-dom/client";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import NavBar from "./component/NavBar.jsx";
+import HomePage from "./component/HomePage.jsx";
+import SorceryList from "./component/SorceryList.jsx";
 
-function App() {
+
+export default function App() {
   return (
-    <>
-      <IndexApp magicData={magicData}/>
-    </>
+    <BrowserRouter>
+      <Routes>
+        <Route path="/" element={<NavBar />}>
+          <Route index element={<HomePage />} />
+          <Route path="SorceryList" element={<SorceryList />} />
+        </Route>
+      </Routes>
+    </BrowserRouter>
   );
 }
 
-export default App;
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<App />);
