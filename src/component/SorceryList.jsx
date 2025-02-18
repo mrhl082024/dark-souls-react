@@ -6,10 +6,10 @@ const sorceryData = magicData[0].Magic.Sorcery
 const SorceryList = () => {
 
     const card = document.querySelector("#sorcerylist-card")
-    console.log(sorceryData.length);
     
 
     for (let i = 0; i < sorceryData.length; i++) {
+        
         const img = document.createElement("img")
         img.src = sorceryData[i].Img       
         const imgContainer = document.createElement("div") 
