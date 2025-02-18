@@ -3,7 +3,8 @@ const magicData = [
     "Magic": {
       "Sorcery": {
         "Soul Arrow": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -12,7 +13,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Soul Arrow": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -21,7 +23,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Heavy Soul Arrow": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -30,7 +33,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Heavy Soul Arrow": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -39,7 +43,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Farron Dart": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -48,7 +53,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Farron Dart": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -57,7 +63,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Farron Hail": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -66,7 +73,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Homing Soulmass": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -75,7 +83,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Homing Crystal Soulmass": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -84,7 +93,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Crystal Hail": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -93,7 +103,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Soul Spear": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -102,7 +113,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Crystal Soul Spear": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -111,7 +123,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "White Dragon Breath": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -120,7 +133,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Soul Stream": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -129,7 +143,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Soul Greatsword": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -138,7 +153,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Farron Flashsword": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -147,7 +163,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Magic Weapon": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -156,7 +173,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Magic Weapon": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -165,7 +183,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Crystal Magic Weapon": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -174,7 +193,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Magic Shield": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -183,7 +203,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Magic Shield": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -192,7 +213,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Spook": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -201,7 +223,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Aural Decoy": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -210,7 +233,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Pestilent Mist": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -219,7 +243,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Cast Light": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -228,7 +253,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Repair": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -237,7 +263,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Hidden Weapon": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -246,7 +273,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Hidden Body": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -255,7 +283,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Chameleon": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -264,7 +293,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Twisted Wall of Light": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -273,7 +303,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Deep Soul": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -282,7 +313,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Deep Soul": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -291,7 +323,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Affinity": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -300,7 +333,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Dark Edge": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -309,7 +343,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Frozen Weapon": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -318,7 +353,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Snap Freeze": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -327,7 +363,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Soul Dregs": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
@@ -336,7 +373,8 @@ const magicData = [
           "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Old Moonlight": {
-          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "name":"Placeholder",
+          "Img":"public/images/ds1_bonfire_wallpaper.jpg",
           "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
