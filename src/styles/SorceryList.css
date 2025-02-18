@@ -7,14 +7,16 @@
     "a a c c e e m m"
     "a a c c e e m m";
     font-size: 20px;
+    margin: 10px;
 }
 #img-header{
     grid-area: h;
+    margin: 5px;
 }
 #img {
   width: 120px;
   grid-area: a;
-  margin: 0 5px 0 0;
+  margin: 5px;
 }
 #desc-header{
     grid-area: b;
