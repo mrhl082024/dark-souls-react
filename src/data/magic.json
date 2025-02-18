@@ -3,308 +3,346 @@
     "Magic": {
       "Sorcery": {
         "Soul Arrow": {
-          "Description": "",
-          "FP": "7",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
           "Slots": "1",
           "Intelligence": "10",
-          "Faith": "",
-          "Acquired": ""
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Soul Arrow": {
-          "Description": "",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
-          "Intelligence": "15",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Heavy Soul Arrow": {
-          "Description": "",
-          "FP": "11",
-          "Slots": "1",
-          "Intelligence": "13",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Great Heavy Soul Arrow": {
-          "Description": "",
-          "FP": "14",
-          "Slots": "1",
-          "Intelligence": "18",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Farron Dart": {
-          "Description": "",
-          "FP": "3",
-          "Slots": "1",
-          "Intelligence": "8",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Great Farron Dart": {
-          "Description": "",
-          "FP": "4",
-          "Slots": "1",
-          "Intelligence": "23",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Farron Hail": {
-          "Description": "",
-          "FP": "4",
-          "Slots": "1",
-          "Intelligence": "28",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Homing Soulmass": {
-          "Description": "",
-          "FP": "20",
-          "Slots": "1",
-          "Intelligence": "20",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Homing Crystal Soulmass": {
-          "Description": "",
-          "FP": "43",
-          "Slots": "1",
-          "Intelligence": "30",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Crystal Hail": {
-          "Description": "",
-          "FP": "19",
-          "Slots": "1",
-          "Intelligence": "18",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Soul Spear": {
-          "Description": "",
-          "FP": "32",
-          "Slots": "1",
-          "Intelligence": "32",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Crystal Soul Spear": {
-          "Description": "",
-          "FP": "46",
-          "Slots": "1",
-          "Intelligence": "48",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "White Dragon Breath": {
-          "Description": "",
-          "FP": "25",
-          "Slots": "1",
-          "Intelligence": "50",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Soul Stream": {
-          "Description": "",
-          "FP": "55",
-          "Slots": "1",
-          "Intelligence": "45",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Soul Greatsword": {
-          "Description": "",
-          "FP": "23",
-          "Slots": "1",
-          "Intelligence": "22",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Farron Flashsword": {
-          "Description": "",
-          "FP": "4",
-          "Slots": "1",
-          "Intelligence": "23",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Magic Weapon": {
-          "Description": "",
-          "FP": "25",
-          "Slots": "1",
-          "Intelligence": "10",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Great Magic Weapon": {
-          "Description": "",
-          "FP": "35",
-          "Slots": "1",
-          "Intelligence": "15",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Crystal Magic Weapon": {
-          "Description": "",
-          "FP": "45",
-          "Slots": "1",
-          "Intelligence": "30",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Magic Shield": {
-          "Description": "",
-          "FP": "30",
-          "Slots": "1",
-          "Intelligence": "10",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Great Magic Shield": {
-          "Description": "",
-          "FP": "60",
-          "Slots": "1",
-          "Intelligence": "18",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Spook": {
-          "Description": "",
-          "FP": "15",
-          "Slots": "1",
-          "Intelligence": "10",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Aural Decoy": {
-          "Description": "",
-          "FP": "15",
-          "Slots": "1",
-          "Intelligence": "18",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Pestilent Mist": {
-          "Description": "",
-          "FP": "13",
-          "Slots": "1",
-          "Intelligence": "30",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Cast Light": {
-          "Description": "",
-          "FP": "20",
-          "Slots": "1",
-          "Intelligence": "15",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Repair": {
-          "Description": "",
-          "FP": "20",
-          "Slots": "1",
-          "Intelligence": "15",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Hidden Weapon": {
-          "Description": "",
-          "FP": "25",
-          "Slots": "1",
-          "Intelligence": "12",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Hidden Body": {
-          "Description": "",
-          "FP": "15",
-          "Slots": "1",
-          "Intelligence": "15",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Chameleon": {
-          "Description": "",
-          "FP": "20",
-          "Slots": "1",
-          "Intelligence": "12",
-          "Faith": "",
-          "Acquired": ""
-        },
-        "Twisted Wall of Light": {
-          "Description": "",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
           "FP": "10",
           "Slots": "1",
-          "Intelligence": "27",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Great Heavy Soul Arrow": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Farron Dart": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Great Farron Dart": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Farron Hail": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Homing Soulmass": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Homing Crystal Soulmass": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Crystal Hail": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Soul Spear": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Crystal Soul Spear": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "White Dragon Breath": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Soul Stream": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Soul Greatsword": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Farron Flashsword": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Magic Weapon": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Great Magic Weapon": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Crystal Magic Weapon": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Magic Shield": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Great Magic Shield": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Spook": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Aural Decoy": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Pestilent Mist": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Cast Light": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Repair": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Hidden Weapon": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Hidden Body": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Chameleon": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
+        },
+        "Twisted Wall of Light": {
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
+          "Slots": "1",
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Deep Soul": {
-          "Description": "",
-          "FP": "6",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
           "Slots": "1",
-          "Intelligence": "12",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Deep Soul": {
-          "Description": "",
-          "FP": "9",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
           "Slots": "1",
-          "Intelligence": "20",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Affinity": {
-          "Description": "",
-          "FP": "40",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
           "Slots": "1",
-          "Intelligence": "32",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Dark Edge": {
-          "Description": "",
-          "FP": "26",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
           "Slots": "1",
-          "Intelligence": "30",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Frozen Weapon": {
-          "Description": "",
-          "FP": "30",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
           "Slots": "1",
-          "Intelligence": "15",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Snap Freeze": {
-          "Description": "",
-          "FP": "16",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
           "Slots": "1",
-          "Intelligence": "18",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Great Soul Dregs": {
-          "Description": "",
-          "FP": "30",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
           "Slots": "1",
-          "Intelligence": "40",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         },
         "Old Moonlight": {
-          "Description": "",
-          "FP": "23",
+          "Img":"./assets/ds1_bonfire-wallpaper.jpg",
+          "Description": "Something something deep lore about the dark souls universe, I should probably just copy something from vaativydia and put it here for atmospheric effect.",
+          "FP": "10",
           "Slots": "1",
-          "Intelligence": "25",
-          "Faith": "",
-          "Acquired": ""
+          "Intelligence": "10",
+          "Faith": "0",
+          "Acquired": "Can be bought from XXX or aquired from XXX corpse at XXX place."
         }
       },
       "Miracles": {
