@@ -2,14 +2,21 @@
   {
     "sorcery": {
       "soul arrow": {
-        "name": "Soul arrow",
+        "name": "Soul Arrow",
         "description": "Elementary sorcery. Fire a soul arrow. Soul arrows inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials",
         "fp": "7",
         "slots": "1",
         "intelligence": "10",
         "acquired": "Starting spell for the Sorcery Class"
       },
-      "heavy soul arrow": {}
+      "heavy soul arrow": {
+        "name": "Heavy Soul Arrow",
+        "description": "Elementary, yet practical sorcery from long ago. Fires a heavy soul arrow. Offers greater power but slower casting time, entailing a vulnerability that makes this sorcery trickier to handle.",
+        "fp": "11",
+        "slots": "1",
+        "intelligence": "13",
+        "acquired": "Starting spell for the Sorcery Class"
+      }
     },
     "miracles": {
       "head aid": {},
