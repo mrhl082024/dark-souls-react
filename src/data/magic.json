@@ -52,43 +52,43 @@
     {
       "name": "Heal Aid",
       "img": "/images/HealAid.webp",
-      "description": "",
-      "fp": "",
-      "slots": "",
+      "description": "Miracle imparted as charity to those of little faith. A show of tolerance from the Way of White. Slightly restores HP. To use miracles, equip a talisman or sacred chime and attune a miracle at a bonfire.",
+      "fp": "27",
+      "slots": "1",
       "intelligence": "",
-      "faith": "",
+      "faith": "8",
       "acquired": ""
     },
     {
       "name": "Heal",
       "img": "/images/heal.png",
-      "description": "",
-      "fp": "",
-      "slots": "",
+      "description": "Elementary miracle cast by clerics. Restores HP for self and those in the vicinity. To use miracles, equip a talisman or sacred chime and attune a miracle at a bonfire.",
+      "fp": "45",
+      "slots": "1",
       "intelligence": "",
-      "faith": "",
+      "faith": "12",
       "acquired": ""
     }
   ],
   "pyromancy": [
     {
-      "name": "",
-      "img": "/images/ds1_bonfire_wallpaper.jpg",
-      "description": "",
-      "fp": "",
-      "slots": "",
-      "intelligence": "",
-      "faith": "",
+      "name": "FireBall",
+      "img": "/images/fireball.png",
+      "description": "Elementary pyromancy that is often the first learned. Hurls a fireball. To use pyromancies, equip a pyromancy flame and attune a pyromancy at a bonfire.",
+      "fp": "10",
+      "slots": "1",
+      "intelligence": "6",
+      "faith": "6",
       "acquired": ""
     },
     {
-      "name": "Great Fireball",
-      "img": "/images/ds1_bonfire_wallpaper.jpg",
-      "description": "",
-      "fp": "",
-      "slots": "",
-      "intelligence": "",
-      "faith": "",
+      "name": "Fire Orb",
+      "img": "/images/fire_orb.png",
+      "description": "The signature flame-manipulating spell common to pyromancers. Hurls a giant fire orb. The blazing fire orb explodes on impact, dealing fire damage to the surrounding area. They say that once a pyromancer learns this spell, their understanding of the flame deepens, together with a yearning for it.",
+      "fp": "14",
+      "slots": "1",
+      "intelligence": "8",
+      "faith": "8",
       "acquired": ""
     }
   ]
