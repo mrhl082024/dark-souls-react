@@ -10,6 +10,15 @@
       "faith": "",
       "acquired": "Starting spell for the Sorcery Class"
     },
+    {
+      "name": "Great Soul Arrow",
+      "img": "/images/soul_arrow.png",
+      "description": "Sorcery which improves upon Soul Arrow. Fires a more powerful soul arrow. Many sorceries inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials.",
+      "fp": "10",
+      "slots": "1",
+      "intelligence": "15",
+      "acquired": ""
+    },
 
     {
       "name": "Heavy Soul Arrow",
@@ -19,6 +28,24 @@
       "slots": "1",
       "intelligence": "13",
       "acquired": "Starting spell for the Sorcery Class"
+    },
+    {
+      "name": "Great Heavy Soul Arrow",
+      "img": "/images/great_heavy_soul_arrow.png",
+      "description": "Sorcery which improves upon Heavy Soul Arrow. Fires a more powerful heavy soul arrow. Sorceries are a logical discipline: their strength influenced by the caster's intelligence.",
+      "fp": "14",
+      "slots": "1",
+      "intelligence": "18",
+      "acquired": ""
+    },
+    {
+      "name": "Farron Dart",
+      "img": "/images/farron_dart.png",
+      "description": "Variation of Soul Arrow developed by sorcerers of the Undead Legion of Farron. Fire a soul dart. Well known among the Farron sorceries, it is learned far and wide due to its ease of use.",
+      "fp": "3",
+      "slots": "1",
+      "intelligence": "8",
+      "acquired": ""
     }
   ],
   "miracles": [
@@ -33,7 +60,7 @@
       "acquired": ""
     },
     {
-      "name": "",
+      "name": "Heal",
       "img": "/images/heal.png",
       "description": "",
       "fp": "",
