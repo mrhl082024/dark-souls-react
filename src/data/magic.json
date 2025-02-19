@@ -2,7 +2,7 @@
   "sorcery": [
     {
       "name": "Soul Arrow",
-      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "img": "/images/soul_arrow.png",
       "description": "Elementary sorcery. Fire a soul arrow. Soul arrows inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials",
       "fp": "7",
       "slots": "1",
@@ -13,7 +13,7 @@
 
     {
       "name": "Heavy Soul Arrow",
-      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "img": "/images/heavy_soul_arrow.png",
       "description": "Elementary, yet practical sorcery from long ago. Fires a heavy soul arrow. Offers greater power but slower casting time, entailing a vulnerability that makes this sorcery trickier to handle.",
       "fp": "11",
       "slots": "1",
@@ -23,8 +23,8 @@
   ],
   "miracles": [
     {
-      "name": "",
-      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "name": "Heal Aid",
+      "img": "/images/HealAid.webp",
       "description": "",
       "fp": "",
       "slots": "",
@@ -34,7 +34,7 @@
     },
     {
       "name": "",
-      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "img": "/images/heal.png",
       "description": "",
       "fp": "",
       "slots": "",
