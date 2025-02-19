@@ -6,47 +6,45 @@
     "h h b b d d l l"
     "a a c c e e m m"
     "a a c c e e m m";
-    font-size: 20px;
-    margin: 10px;
+  font-size: 20px;
+  margin: 10px;
 }
-#img-header{
-    grid-area: h;
-    margin: 5px;
+#img-header {
+  grid-area: h;
+  margin: 5px;
 }
 #img {
   width: 120px;
   grid-area: a;
   margin: 5px;
 }
-#desc-header{
-    grid-area: b;
+#desc-header {
+  grid-area: b;
 }
-#description{
-    display: flex;
-    align-items: center;
-    grid-area: c;
-    margin: 0 10px 0 0;
-    width: 500px;
-
+#description {
+  display: flex;
+  align-items: center;
+  grid-area: c;
+  margin: 0 10px 0 0;
+  width: 500px;
 }
-#stats{
-    
-    grid-area: d;
+#stats {
+  grid-area: d;
 }
-#stat-table{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    grid-area: e;
-    margin: 0 10px 0 0;
+#stat-table {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  grid-area: e;
+  margin: 0 10px 0 0;
 }
-#acquired-header{
-    grid-area: l;
+#acquired-header {
+  grid-area: l;
 }
-#acquired{
-    display: flex;
-    align-items: center;
-    grid-area: m;
-    margin: 0 10px 0 0;
-    width: 500px;
+#acquired {
+  display: flex;
+  align-items: center;
+  grid-area: m;
+  margin: 0 10px 0 0;
+  width: 500px;
 }

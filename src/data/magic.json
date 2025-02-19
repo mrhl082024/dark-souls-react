@@ -1,0 +1,23 @@
+[
+  {
+    "sorcery": {
+      "soul arrow": {
+        "name": "Soul arrow",
+        "description": "Elementary sorcery. Fire a soul arrow. Soul arrows inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials",
+        "fp": "7",
+        "slots": "1",
+        "intelligence": "10",
+        "acquired": "Starting spell for the Sorcery Class"
+      },
+      "heavy soul arrow": {}
+    },
+    "miracles": {
+      "head aid": {},
+      "heal": {}
+    },
+    "pyromancy": {
+      "fireball": {},
+      "great fireball": {}
+    }
+  }
+]
