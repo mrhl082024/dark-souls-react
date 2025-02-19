@@ -8,7 +8,7 @@ const SorceryList = () => {
     //HTML code goes here--
     <>
       {magicData.sorcery.map((spell, i) => (
-        <div key={i} id="sorcery-card">
+        <div key={i} id="magic-card">
           <section id="name-img-container">
             <h2 id="name"> {spell.name} </h2>
             <div id="img-container">
