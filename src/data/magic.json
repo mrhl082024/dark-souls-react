@@ -3,6 +3,7 @@
     "sorcery": {
       "soul arrow": {
         "name": "Soul Arrow",
+        "img": "public/images/ds1_bonfire_wallpaper.jpg",
         "description": "Elementary sorcery. Fire a soul arrow. Soul arrows inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials",
         "fp": "7",
         "slots": "1",
@@ -11,6 +12,7 @@
       },
       "heavy soul arrow": {
         "name": "Heavy Soul Arrow",
+        "img": "public/images/ds1_bonfire_wallpaper.jpg",
         "description": "Elementary, yet practical sorcery from long ago. Fires a heavy soul arrow. Offers greater power but slower casting time, entailing a vulnerability that makes this sorcery trickier to handle.",
         "fp": "11",
         "slots": "1",
