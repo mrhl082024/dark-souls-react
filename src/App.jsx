@@ -3,7 +3,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import NavBar from "./component/NavBar.jsx";
 import HomePage from "./component/HomePage.jsx";
 import SorceryList from "./component/SorceryList.jsx";
-
+import MiracleList from "./component/MiracleList.jsx";
+import PyromancyList from "./component/PyromancyList.jsx";
 
 export default function App() {
   return (
@@ -12,6 +13,8 @@ export default function App() {
         <Route path="/" element={<NavBar />}>
           <Route index element={<HomePage />} />
           <Route path="SorceryList" element={<SorceryList />} />
+          <Route path="MiracleList" element={<MiracleList />} />
+          <Route path="PyromancyList" element={<PyromancyList />} />
         </Route>
       </Routes>
     </BrowserRouter>

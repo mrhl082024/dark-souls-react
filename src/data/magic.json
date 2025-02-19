@@ -1,32 +1,68 @@
-[
-  {
-    "sorcery": {
-      "soul arrow": {
-        "name": "Soul Arrow",
-        "img": "/images/ds1_bonfire_wallpaper.jpg",
-        "description": "Elementary sorcery. Fire a soul arrow. Soul arrows inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials",
-        "fp": "7",
-        "slots": "1",
-        "intelligence": "10",
-        "acquired": "Starting spell for the Sorcery Class"
-      },
-      "heavy soul arrow": {
-        "name": "Heavy Soul Arrow",
-        "img": "/images/ds1_bonfire_wallpaper.jpg",
-        "description": "Elementary, yet practical sorcery from long ago. Fires a heavy soul arrow. Offers greater power but slower casting time, entailing a vulnerability that makes this sorcery trickier to handle.",
-        "fp": "11",
-        "slots": "1",
-        "intelligence": "13",
-        "acquired": "Starting spell for the Sorcery Class"
-      }
+{
+  "sorcery": [
+    {
+      "name": "Soul Arrow",
+      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "description": "Elementary sorcery. Fire a soul arrow. Soul arrows inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials",
+      "fp": "7",
+      "slots": "1",
+      "intelligence": "10",
+      "faith": "",
+      "acquired": "Starting spell for the Sorcery Class"
     },
-    "miracles": {
-      "head aid": {},
-      "heal": {}
-    },
-    "pyromancy": {
-      "fireball": {},
-      "great fireball": {}
+
+    {
+      "name": "Heavy Soul Arrow",
+      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "description": "Elementary, yet practical sorcery from long ago. Fires a heavy soul arrow. Offers greater power but slower casting time, entailing a vulnerability that makes this sorcery trickier to handle.",
+      "fp": "11",
+      "slots": "1",
+      "intelligence": "13",
+      "acquired": "Starting spell for the Sorcery Class"
     }
-  }
-]
+  ],
+  "miracles": [
+    {
+      "name": "",
+      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "description": "",
+      "fp": "",
+      "slots": "",
+      "intelligence": "",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "",
+      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "description": "",
+      "fp": "",
+      "slots": "",
+      "intelligence": "",
+      "faith": "",
+      "acquired": ""
+    }
+  ],
+  "pyromancy": [
+    {
+      "name": "",
+      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "description": "",
+      "fp": "",
+      "slots": "",
+      "intelligence": "",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Great Fireball",
+      "img": "/images/ds1_bonfire_wallpaper.jpg",
+      "description": "",
+      "fp": "",
+      "slots": "",
+      "intelligence": "",
+      "faith": "",
+      "acquired": ""
+    }
+  ]
+}
