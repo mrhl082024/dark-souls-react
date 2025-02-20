@@ -44,7 +44,7 @@
     {
       "name": "Farron Dart",
       "img": "/images/sorcery/farron_dart.png",
-      "description": "Variation of Soul Arrow developed by sorcerers of the Undead Legion of Farron. Fire a soul dart. Well known among the Farron sorceries, it is learned far and wide due to its ease of use.",
+      "description": "Fires a soul dart.",
       "fp": "3",
       "slots": "1",
       "intelligence": "8",
@@ -54,7 +54,7 @@
     {
       "name": "Great Farron Dart",
       "img": "/images/sorcery/great_farron_dart.png",
-      "description": "Sorcery which improves upon Farron Dart. Fires a more powerful soul dart. Entrusted to the leader of the Legion's acolytes, and apparently a sorcery of his daughter, Heysel, that was refined by a Crystal Sage.",
+      "description": "Fires a more powerful soul dart.",
       "fp": "4",
       "slots": "1",
       "intelligence": "23",
@@ -64,10 +64,130 @@
     {
       "name": "Farron Hail",
       "img": "/images/sorcery/farron_hail.png",
-      "description": "Fires a cascade of soul darts",
-      "fp": "14",
+      "description": "Fires a cascade of soul darts.",
+      "fp": "4",
       "slots": "1",
       "intelligence": "28",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Homing Soulmass",
+      "img": "/images/sorcery/homing_soulmass.png",
+      "description": "Releases a homing soulmass.",
+      "fp": "20",
+      "slots": "1",
+      "intelligence": "20",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Crystal Homing Soulmass",
+      "img": "/images/sorcery/homing_crystal_soulmass.png",
+      "description": "Releases a homing crystal soulmass. Crystal soulmass has piercing qualities.",
+      "fp": "43",
+      "slots": "1",
+      "intelligence": "30",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Crystal Hail",
+      "img": "/images/sorcery/crystal_hail.png",
+      "description": "Casts a cascade of small crystal soulmasses from above. Crystal soumlasses have piercing qualities.",
+      "fp": "19",
+      "slots": "1",
+      "intelligence": "18",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Soul Spear",
+      "img": "/images/sorcery/soul_spear.png",
+      "description": "Fires a soul spear.",
+      "fp": "32",
+      "slots": "1",
+      "intelligence": "32",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Crystal Soul Spear",
+      "img": "/images/sorcery/crystal_soul_spear.jpg",
+      "description": "Fires a piercing crystal soul spear.",
+      "fp": "46",
+      "slots": "1",
+      "intelligence": "48",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "White Dragon Breath",
+      "img": "/images/sorcery/white_dragon_breath.png",
+      "description": "Emits a crystal breath of Seath the Scaleless. Crystal breath has piercing qualities.",
+      "fp": "25",
+      "slots": "1",
+      "intelligence": "50",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Soul Stream",
+      "img": "/images/sorcery/soul_stream.png",
+      "description": "Ka-me HA-me HAAAA!",
+      "fp": "55",
+      "slots": "2",
+      "intelligence": "45",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Soul Greatsword",
+      "img": "/images/sorcery/soul_greatsword.png",
+      "description": "Attacks with a greatsword fromed from souls.",
+      "fp": "23",
+      "slots": "1",
+      "intelligence": "22",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Farron Flashsword",
+      "img": "/images/sorcery/farron_flashsword.png",
+      "description": "Alteration of Soul Greatsword developed by sorcerers of the Undead Legion of Farron.",
+      "fp": "4",
+      "slots": "1",
+      "intelligence": "23",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Magic Weapon",
+      "img": "/images/sorcery/magic_weapon.png",
+      "description": "Reinforce right weapon with magic.",
+      "fp": "25",
+      "slots": "1",
+      "intelligence": "10",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Great Magic Weapon",
+      "img": "/images/sorcery/great_magic_weapon.png",
+      "description": "Greatly reinforces right weapon with magic.",
+      "fp": "35",
+      "slots": "1",
+      "intelligence": "15",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Crystal Magic Weapon",
+      "img": "/images/sorcery/crystal_magic_weapon.png",
+      "description": "Reinforce right weapon with crystal.",
+      "fp": "45",
+      "slots": "1",
+      "intelligence": "30",
       "faith": "",
       "acquired": ""
     }
