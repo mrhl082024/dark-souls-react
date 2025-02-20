@@ -240,6 +240,46 @@
       "intelligence": "30",
       "faith": "",
       "acquired": ""
+    },
+    {
+      "name": "Cast Light",
+      "img": "/images/sorcery/cast_light.png",
+      "description": "Casts a light to illuminate surroundings.",
+      "fp": "20",
+      "slots": "1",
+      "intelligence": "15",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Repair",
+      "img": "/images/sorcery/repair.png",
+      "description": "Repairs equipped weapons and armour. Includes weapons with exhausted durability.",
+      "fp": "20",
+      "slots": "1",
+      "intelligence": "15",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Hidden Weapon",
+      "img": "/images/sorcery/hidden_weapon.png",
+      "description": "Turns right weapon invisible.",
+      "fp": "25",
+      "slots": "1",
+      "intelligence": "12",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Hidden Body",
+      "img": "/images/sorcery/hidden_body.png",
+      "description": "Turns body nearly invisible.",
+      "fp": "15",
+      "slots": "1",
+      "intelligence": "15",
+      "faith": "",
+      "acquired": ""
     }
   ],
   "miracles": [
