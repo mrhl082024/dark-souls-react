@@ -2,8 +2,8 @@
   "sorcery": [
     {
       "name": "Soul Arrow",
-      "img": "/images/soul_arrow.png",
-      "description": "Elementary sorcery. Fire a soul arrow. Soul arrows inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials",
+      "img": "/images/sorcery/soul_arrow.png",
+      "description": "Fires a soul arrow.",
       "fp": "7",
       "slots": "1",
       "intelligence": "10",
@@ -12,46 +12,70 @@
     },
     {
       "name": "Great Soul Arrow",
-      "img": "/images/soul_arrow.png",
-      "description": "Sorcery which improves upon Soul Arrow. Fires a more powerful soul arrow. Many sorceries inflict magic damage, making them effective against iron armor, tough scales, and other physically resilient materials.",
+      "img": "/images/sorcery/soul_arrow.png",
+      "description": "Fires a more powerful soul arrow.",
       "fp": "10",
       "slots": "1",
       "intelligence": "15",
+      "faith": "",
       "acquired": ""
     },
 
     {
       "name": "Heavy Soul Arrow",
-      "img": "/images/heavy_soul_arrow.png",
-      "description": "Elementary, yet practical sorcery from long ago. Fires a heavy soul arrow. Offers greater power but slower casting time, entailing a vulnerability that makes this sorcery trickier to handle.",
+      "img": "/images/sorcery/heavy_soul_arrow.png",
+      "description": "Fires a heavy soul arrow",
       "fp": "11",
       "slots": "1",
       "intelligence": "13",
+      "faith": "",
       "acquired": "Starting spell for the Sorcery Class"
     },
     {
       "name": "Great Heavy Soul Arrow",
-      "img": "/images/great_heavy_soul_arrow.png",
-      "description": "Sorcery which improves upon Heavy Soul Arrow. Fires a more powerful heavy soul arrow. Sorceries are a logical discipline: their strength influenced by the caster's intelligence.",
+      "img": "/images/sorcery/great_heavy_soul_arrow.png",
+      "description": "Fires a more powerful heavy soul arrow.",
       "fp": "14",
       "slots": "1",
       "intelligence": "18",
+      "faith": "",
       "acquired": ""
     },
     {
       "name": "Farron Dart",
-      "img": "/images/farron_dart.png",
+      "img": "/images/sorcery/farron_dart.png",
       "description": "Variation of Soul Arrow developed by sorcerers of the Undead Legion of Farron. Fire a soul dart. Well known among the Farron sorceries, it is learned far and wide due to its ease of use.",
       "fp": "3",
       "slots": "1",
       "intelligence": "8",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Great Farron Dart",
+      "img": "/images/sorcery/great_farron_dart.png",
+      "description": "Sorcery which improves upon Farron Dart. Fires a more powerful soul dart. Entrusted to the leader of the Legion's acolytes, and apparently a sorcery of his daughter, Heysel, that was refined by a Crystal Sage.",
+      "fp": "4",
+      "slots": "1",
+      "intelligence": "23",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Farron Hail",
+      "img": "/images/sorcery/farron_hail.png",
+      "description": "Fires a cascade of soul darts",
+      "fp": "14",
+      "slots": "1",
+      "intelligence": "28",
+      "faith": "",
       "acquired": ""
     }
   ],
   "miracles": [
     {
       "name": "Heal Aid",
-      "img": "/images/HealAid.webp",
+      "img": "/images/miracles/HealAid.webp",
       "description": "Miracle imparted as charity to those of little faith. A show of tolerance from the Way of White. Slightly restores HP. To use miracles, equip a talisman or sacred chime and attune a miracle at a bonfire.",
       "fp": "27",
       "slots": "1",
@@ -61,7 +85,7 @@
     },
     {
       "name": "Heal",
-      "img": "/images/heal.png",
+      "img": "/images/miracles/heal.png",
       "description": "Elementary miracle cast by clerics. Restores HP for self and those in the vicinity. To use miracles, equip a talisman or sacred chime and attune a miracle at a bonfire.",
       "fp": "45",
       "slots": "1",
@@ -73,7 +97,7 @@
   "pyromancy": [
     {
       "name": "FireBall",
-      "img": "/images/fireball.png",
+      "img": "/images/pyromancy/fireball.png",
       "description": "Elementary pyromancy that is often the first learned. Hurls a fireball. To use pyromancies, equip a pyromancy flame and attune a pyromancy at a bonfire.",
       "fp": "10",
       "slots": "1",
@@ -83,7 +107,7 @@
     },
     {
       "name": "Fire Orb",
-      "img": "/images/fire_orb.png",
+      "img": "/images/pyromancy/fire_orb.png",
       "description": "The signature flame-manipulating spell common to pyromancers. Hurls a giant fire orb. The blazing fire orb explodes on impact, dealing fire damage to the surrounding area. They say that once a pyromancer learns this spell, their understanding of the flame deepens, together with a yearning for it.",
       "fp": "14",
       "slots": "1",
