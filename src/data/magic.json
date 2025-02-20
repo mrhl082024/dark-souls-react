@@ -210,6 +210,36 @@
       "intelligence": "18",
       "faith": "",
       "acquired": ""
+    },
+    {
+      "name": "Spook",
+      "img": "/images/sorcery/spook.png",
+      "description": "Masks noises of the caster and prevents fall damage.",
+      "fp": "15",
+      "slots": "1",
+      "intelligence": "10",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Aural Decoy",
+      "img": "/images/sorcery/aural_decoy.png",
+      "description": "Distract foes with distant sound.",
+      "fp": "15",
+      "slots": "1",
+      "intelligence": "18",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Pestilent Mist",
+      "img": "/images/sorcery/pestilent_mist.png",
+      "description": "Releases dense mist that eats away at HP. Beware, as the caster is not immune to its effect.",
+      "fp": "13",
+      "slots": "1",
+      "intelligence": "30",
+      "faith": "",
+      "acquired": ""
     }
   ],
   "miracles": [
