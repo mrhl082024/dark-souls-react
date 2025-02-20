@@ -190,6 +190,26 @@
       "intelligence": "30",
       "faith": "",
       "acquired": ""
+    },
+    {
+      "name": "Magic Shield",
+      "img": "/images/sorcery/magic_shield.png",
+      "description": "Reinforce left shield with magic.",
+      "fp": "30",
+      "slots": "1",
+      "intelligence": "10",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Great Magic Shield",
+      "img": "/images/sorcery/great_magic_shield.png",
+      "description": "Greatly reinforces left shield with magic.",
+      "fp": "60",
+      "slots": "1",
+      "intelligence": "18",
+      "faith": "",
+      "acquired": ""
     }
   ],
   "miracles": [
