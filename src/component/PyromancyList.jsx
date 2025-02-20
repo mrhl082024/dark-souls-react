@@ -12,7 +12,11 @@ const SorceryList = () => {
           <section id="name-img-container">
             <h2 id="name"> {spell.name} </h2>
             <div id="img-container">
-              <img id="img" src={spell.img} alt="Picture of a sorcery spell." />
+              <img
+                id="img"
+                src={spell.img}
+                alt="Picture of a Pyromancy spell."
+              />
             </div>
           </section>
           <section id="description-container">
