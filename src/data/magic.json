@@ -280,6 +280,36 @@
       "intelligence": "15",
       "faith": "",
       "acquired": ""
+    },
+    {
+      "name": "Chameleon",
+      "img": "/images/sorcery/chameleon.png",
+      "description": "Transform player into something inconspicuous.",
+      "fp": "20",
+      "slots": "1",
+      "intelligence": "12",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Twisted Wall of Light",
+      "img": "/images/sorcery/twisted_wall_of_light.png",
+      "description": "Distorts light to deflect magic.",
+      "fp": "10",
+      "slots": "1",
+      "intelligence": "27",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Deep Soul",
+      "img": "/images/sorcery/deep_soul.png",
+      "description": "Fires dark soul dregs.",
+      "fp": "6",
+      "slots": "1",
+      "intelligence": "12",
+      "faith": "",
+      "acquired": ""
     }
   ],
   "miracles": [
