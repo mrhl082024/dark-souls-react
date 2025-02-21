@@ -310,6 +310,76 @@
       "intelligence": "12",
       "faith": "",
       "acquired": ""
+    },
+    {
+      "name": "Great Deep Soul",
+      "img": "/images/sorcery/great_deep_soul.png",
+      "description": "Fires powerful darkened soul sediment.",
+      "fp": "9",
+      "slots": "1",
+      "intelligence": "20",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Affinity",
+      "img": "/images/sorcery/affinity.png",
+      "description": "Casts a dark manifestation of humanity.",
+      "fp": "40",
+      "slots": "1",
+      "intelligence": "32",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Dark Edge",
+      "img": "/images/sorcery/dark_edge.png",
+      "description": "Strikes with a blade formed of humanity's darkness.",
+      "fp": "26",
+      "slots": "1",
+      "intelligence": "30",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Frozen Weapon",
+      "img": "/images/sorcery/frozen_weapon.png",
+      "description": "Imbues right-hand weapon with frost.",
+      "fp": "30",
+      "slots": "1",
+      "intelligence": "15",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Snap Freeze",
+      "img": "/images/sorcery/snap_freeze.png",
+      "description": "Creates a cloud of near-freezing mist.",
+      "fp": "16",
+      "slots": "1",
+      "intelligence": "18",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Great Soul Dregs",
+      "img": "/images/sorcery/great_soul_dregs.png",
+      "description": "Fires great soul dregs",
+      "fp": "30",
+      "slots": "1",
+      "intelligence": "40",
+      "faith": "",
+      "acquired": ""
+    },
+    {
+      "name": "Old Moonlight",
+      "img": "/images/sorcery/old_moonlight.png",
+      "description": "Concieve old moonlight sword and attack.",
+      "fp": "23",
+      "slots": "1",
+      "intelligence": "25",
+      "faith": "",
+      "acquired": ""
     }
   ],
   "miracles": [
