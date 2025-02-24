@@ -16,7 +16,13 @@ const SorceryList = () => {
               <h2> {spell.name} </h2>
             </Link>
             <div id="img-container">
-              <img id="img" src={spell.img} alt="Picture of a sorcery spell." />
+              <Link to="/MagicWindow">
+                <img
+                  id="img"
+                  src={spell.img}
+                  alt="Picture of a sorcery spell."
+                />
+              </Link>
             </div>
           </section>
           <section id="description-container">
