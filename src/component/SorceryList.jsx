@@ -1,5 +1,7 @@
+import { Outlet } from "react-router-dom";
 import magicData from "../data/magic.json";
 import "../styles/MagicList.css";
+import { Link } from "react-router-dom";
 
 const SorceryList = () => {
   //JS code goes here--
@@ -10,7 +12,9 @@ const SorceryList = () => {
       {magicData.sorcery.map((spell, i) => (
         <div key={i} id="magic-card">
           <section id="name-img-container">
-            <h2 id="name"> {spell.name} </h2>
+            <Link id="name" to="/MagicWindow">
+              <h2> {spell.name} </h2>
+            </Link>
             <div id="img-container">
               <img id="img" src={spell.img} alt="Picture of a sorcery spell." />
             </div>

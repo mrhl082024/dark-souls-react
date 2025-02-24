@@ -5,6 +5,7 @@ import HomePage from "./component/HomePage.jsx";
 import SorceryList from "./component/SorceryList.jsx";
 import MiracleList from "./component/MiracleList.jsx";
 import PyromancyList from "./component/PyromancyList.jsx";
+import MagicWindow from "./component/MagicWindow.jsx";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
           <Route path="SorceryList" element={<SorceryList />} />
           <Route path="MiracleList" element={<MiracleList />} />
           <Route path="PyromancyList" element={<PyromancyList />} />
+          <Route path="MagicWindow" element={<MagicWindow />} />
         </Route>
       </Routes>
     </BrowserRouter>
